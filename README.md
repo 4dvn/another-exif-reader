@@ -1,10 +1,10 @@
-# Another EXIF Reader v1.0
+# Another EXIF Reader
 
-To extract metadata or read EXIF data of an image file, especially in photography related works. Another EXIF Reader is an improved version of [Simple Exif Reader](https://heiswayi.github.io/2016/simple-exif-reader-application) application.
+Another EXIF Reader is a simple GUI tool built in .NET C# and WPF to simply extract the image metadata called EXIF data. This tool also can export the EXIF data into a text file or CSV file. This is made using [MetadataExtractor](https://github.com/drewnoakes/metadata-extractor-dotnet) library for extracting the EXIF data.
 
-[**Download latest release**](https://github.com/heiswayi/another-exif-reader/releases)
+[**Download the latest binary package**](https://github.com/heiswayi/another-exif-reader/releases)
 
-### Screenshots
+### Screenshots (v1.0)
 
 ![Another EXIF Reader #1](http://i.imgur.com/lJAzRjk.png)
 
@@ -20,4 +20,4 @@ _Figure 3: Previewing the actual image._
 
 ### License
 
-Another EXIF Reader is a freeware and open source. The source code is licensed under [MIT License](LICENSE.md).
+[MIT](LICENSE.md).
